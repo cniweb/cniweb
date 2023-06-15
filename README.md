@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### My stats:
+#### My :octocat: stats:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cniweb&theme=transparent) 
 
