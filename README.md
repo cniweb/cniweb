@@ -1,25 +1,12 @@
 ### Hi there 👋
 
-#### Stats:
+#### My stats:
 
-[![cniweb's GitHub stats](https://github-readme-stats.vercel.app/api?username=cniweb&show_icons=true&theme=dark)](!https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cniweb&theme=transparent) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=cniweb&show_icons=true&theme=dark)](!https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cniweb&theme=transparent) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cniweb&theme=transparent) 
 
-<!--
-[![cniweb's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cniweb&show_icons=true&theme=dark)](!https://github.com/anuraghazra/github-readme-stats)
--->
-
-<details>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cniweb&theme=transparent" />
-  <br/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cniweb&theme=transparent" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cniweb&hide_border=true&card_width=338&theme=transparent" />
-<!--
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cniweb&langs_count=10&exclude_repo=&layout=default&card_width=699&hide_border=true&theme=transparent" />
--->
-</details>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cniweb&theme=transparent) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cniweb&theme=transparent&utcOffset=8) 
 
 <!--
 **cniweb/cniweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
