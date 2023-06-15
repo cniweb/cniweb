@@ -10,6 +10,8 @@
 
 [![](https://github-readme-streak-stats.herokuapp.com?user=cniweb&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=700)](https://git.io/streak-stats)
 
+![](https://wakatime.com/share/@cniweb/f48300a6-694f-41ed-b68c-d48447cae083.svg)
+
 <!--
 **cniweb/cniweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
