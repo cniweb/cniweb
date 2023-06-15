@@ -8,6 +8,8 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cniweb&theme=transparent) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cniweb&theme=transparent&utcOffset=8) 
 
+[![](https://github-readme-streak-stats.herokuapp.com?user=cniweb&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=700)](https://git.io/streak-stats)
+
 <!--
 **cniweb/cniweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
